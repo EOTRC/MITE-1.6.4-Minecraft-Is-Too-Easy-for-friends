@@ -4,9 +4,7 @@
 
 FOLDERS:
 --------
-Client/   - game client
-Server/   - dedicated server
-jre8/     - portable Java 8 (auto-downloaded)
+Client/ game client, Server/ dedicated server, jre8/ portable Java 8 (auto-downloaded).
 
 QUICK START:
 ------------
