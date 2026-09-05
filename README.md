@@ -33,6 +33,7 @@ Server settings: port 25565, online-mode=false (cracked OK)
 
 IMPORTANT:
 ----------
+- Disable sounds (Sounds not included)
 - Folder names are Latin (Client/Server) on purpose.
   Cyrillic paths break lwjgl.dll on Windows.
 - If natives error remains: install
