@@ -26,7 +26,7 @@ CONNECT:
 Multiplayer -> Direct Connect
   localhost      - same PC
   192.168.x.x    - LAN (ipconfig)
-  internet       - port forward 25565 or playit.gg
+  internet       - port forward 25565 or [playit.gg](https://playit.gg/), [tailscale.com](https://tailscale.com/).
 
 Server settings: port 25565, online-mode=false (cracked OK)
 
