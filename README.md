@@ -1,12 +1,7 @@
   MITE 1.6.4 - Minecraft Is Too Easy
   Full pack for multiplayer
 ---------------------------------------
-
-FOLDERS:
---------
-Client/ game client, Server/ dedicated server, jre8/ portable Java 8 (auto-downloaded).
-
-QUICK START:
+START playing:
 ------------
 1. Open folder "Client"
 2. Run PLAY.bat
